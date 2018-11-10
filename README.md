@@ -13,3 +13,5 @@ Advanced concepts would be covered as well, but would start from the very beginn
 P.S: Any help in adding code snippets would be highly appreciated.
 
    - [Beginner Level](https://github.com/AdoraNwodo/javascript-fundamentals/beginner)
+       - [Constants and Variables](https://github.com/AdoraNwodo/javascript-fundamentals/blob/master/beginner/constants-and-variables.js)
+       - [Constants and Variables](https://github.com/AdoraNwodo/javascript-fundamentals/blob/master/beginner/constants-and-variables.js)
