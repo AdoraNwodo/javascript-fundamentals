@@ -16,7 +16,7 @@
 var printName = function(...names){
     //lets go through the list (or array) of names and show everything in the console
     names.forEach(name => console.log(name));
-};
+}
 
 //if we called the printName() function down here 
 printName("Adora", "Bolanle", "Chioma", "Derek", "Emmanuel", "Felix", "Godwin", "Hannah", "Isra");
