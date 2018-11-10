@@ -1,5 +1,5 @@
 /*
-    AdoraNwodo/javascript-fundamentals
+    AdoraNwodo/javascript-fundamentals/beginner
 
     constants-and-variables.js
 
