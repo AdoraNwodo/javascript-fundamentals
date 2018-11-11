@@ -6,7 +6,7 @@
     Hello,
     This file illustrates constants and variables, how they are used and defined in javascript.
 
-    A constant is fixed. The value oesn't change during the programs execution. 
+    A constant is fixed. The value doesn't change during the programs execution. 
     You give a constant a value at the beginning and that is the ony value it can have.
     
     A variables value can change over time during the program's execution
