@@ -20,3 +20,5 @@ P.S: Any help in adding code snippets would be highly appreciated.
 
 
 ## License
+
+MIT. Please see the [license file](https://github.com/AdoraNwodo//javascript-fundamentals/blob/master/LICENSE) for more information.
