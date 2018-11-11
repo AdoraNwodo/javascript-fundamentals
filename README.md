@@ -16,4 +16,19 @@ P.S: Any help in adding code snippets would be highly appreciated.
        - [Constants and Variables](https://github.com/AdoraNwodo/javascript-fundamentals/blob/master/beginner/constants-and-variables.js)
        - [Rest Parameter Syntax](https://github.com/AdoraNwodo/javascript-fundamentals/blob/master/beginner/rest-parameters-example.js)
        - [Local & Global Variables](https://github.com/AdoraNwodo/javascript-fundamentals/blob/master/beginner/local-global-variables.js)
+       
+
+
+## License
+
+MIT. Please see the [license file](https://github.com/AdoraNwodo//javascript-fundamentals/blob/master/LICENSE) for more information.
+
+
+
+## Contributing
+
+Contributions are welcome and will be fully credited.
+
+Contributions are accepted via Pull Requests on [Github](https://github.com/adoranwodo/javascript-fundamentals).
+
 
