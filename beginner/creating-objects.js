@@ -19,12 +19,21 @@ employee.employ();
 class Animal{
 
     //constructors in classes
-    constructor(specie){
+    constructor(specie, sound){
         this.specie = specie;
+        this.sound = sound;
+    }
+
+    //method in class
+    speak(){
+        return this.sound;
     }
 }
 
 //create a cat object from animal class
-let cat = new Animal("tiger");
+let cat = new Animal("tiger", "growl");
 
 alert(cat.specie);  //this would show "tiger"
+console.log(cat.speak());   //this would print "growl"
+
+

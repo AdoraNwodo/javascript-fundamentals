@@ -19,7 +19,7 @@ P.S: Any help in adding code snippets would be highly appreciated.
        - [IIFES](https://github.com/AdoraNwodo/javascript-fundamentals/blob/master/beginner/iifes.js)
        - [Functions](https://github.com/AdoraNwodo/javascript-fundamentals/blob/master/beginner/functions.js)
        - [Objects](https://github.com/AdoraNwodo/javascript-fundamentals/blob/master/beginner/creating-objects.js)
-       
+       - [Inheritance](https://github.com/AdoraNwodo/javascript-fundamentals/blob/master/beginner/inheritance.js)       
 
 
 ## License
