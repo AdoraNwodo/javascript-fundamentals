@@ -16,6 +16,9 @@ P.S: Any help in adding code snippets would be highly appreciated.
        - [Constants and Variables](https://github.com/AdoraNwodo/javascript-fundamentals/blob/master/beginner/constants-and-variables.js)
        - [Rest Parameter Syntax](https://github.com/AdoraNwodo/javascript-fundamentals/blob/master/beginner/rest-parameters-example.js)
        - [Local & Global Variables](https://github.com/AdoraNwodo/javascript-fundamentals/blob/master/beginner/local-global-variables.js)
+       - [IIFES](https://github.com/AdoraNwodo/javascript-fundamentals/blob/master/beginner/iifes.js)
+       - [Functions](https://github.com/AdoraNwodo/javascript-fundamentals/blob/master/beginner/functions.js)
+       - [Objects](https://github.com/AdoraNwodo/javascript-fundamentals/blob/master/beginner/creating-objects.js)
        
 
 
