@@ -16,3 +16,15 @@ employee.employ();
 
 
 // CLASSES
+class Animal{
+
+    //constructors in classes
+    constructor(specie){
+        this.specie = specie;
+    }
+}
+
+//create a cat object from animal class
+let cat = new Animal("tiger");
+
+alert(cat.specie);  //this would show "tiger"
