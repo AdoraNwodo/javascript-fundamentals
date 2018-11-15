@@ -1,4 +1,4 @@
-# Javascript Fundamental
+# Javascript Fundamentals
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AdoraNwodo/javascript-fundamentals/)
 [![LICENSE](https://img.shields.io/github/license/AdoraNwodo/javascript-fundamentals.svg)](https://github.com/AdoraNwodo/javascript-fundamentals/)
